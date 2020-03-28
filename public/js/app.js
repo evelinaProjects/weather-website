@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 const formButton = document.querySelector('form')
 const LoactionInput = document.querySelector('input')
 const msg1 = document.querySelector('#p1')
