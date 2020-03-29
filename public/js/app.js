@@ -7,7 +7,7 @@ formButton.addEventListener('submit', (e) => {
     e.preventDefault()
 
     const location = LoactionInput.value
-    msg1.textContent = 'Looking for a weather in ' + location
+    msg1.textContent = 'Looking for a weather in ' + location + '...'
     msg2.textContent = ''
 
 
